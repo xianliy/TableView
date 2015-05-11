@@ -1,2 +1,2 @@
 # TableView
-//using Xcode6.3
+//use Xcode6.3
